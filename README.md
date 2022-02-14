@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @rahul_muvvala
-- 👀 I’m interested in ...learning new things.
-- 🌱 I’m currently doing masters in data science.
+- 👀 I’m curiocity to learn new things.
+- 🌱 I’m currently doing masters in data science at University of New Haven, Connecticut.
+- I have completed my Bachelor of Technology in Mechanical specialization from Sir Chattamanchi Ramalinga Reddy College Of Engineering, Eluru with an aggregate of 7.78 CGPA.
+- I would like to enhance my skils in a trending technology like Data Science.
 -
 
 <!---
